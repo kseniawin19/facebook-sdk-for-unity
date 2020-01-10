@@ -34,7 +34,7 @@ BUILDING THE SDK
 -------------
 1. Setup the plugin binaries.
 ```
-../scripts/setup.sh
+./scripts/setup.sh
 ```
 2. Export the unitypackage
 ```
